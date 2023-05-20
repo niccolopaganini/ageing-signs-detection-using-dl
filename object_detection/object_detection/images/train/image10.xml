@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image10.jpg</filename>
+	<path>D:\images\image10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puffy eyes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>70</ymin>
+			<xmax>132</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>darkspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>81</ymin>
+			<xmax>183</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>
